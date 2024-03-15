@@ -1,0 +1,43 @@
+.body{
+    background: fixed;
+    background-color: rgb(86, 201, 202);
+}
+.krishna{
+    font-size: 50px;
+    text-shadow: 10px;
+    text-shadow: 20px rgb(0, 0, 0);
+    text-align: center;
+}
+.mission{
+    text-align: left;
+}
+.bio{
+    
+    text-align: center;
+    align-content: center;
+    font-style: italic;
+    font-display: white;
+}
+.about{
+    margin: 5%;
+    padding: 20px;
+    border-radius: 40px;;
+    background-color: rgb(200, 54, 86);
+    margin:5%;
+    align-content: center;
+    text-align: left;
+    box-shadow: 8px 8px 8px rgb(0, 0, 0);
+}
+.Abouttitle{
+    text-align: center;
+    box-shadow: 20px;
+    color: aliceblue;
+}
+.ul1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-color: azure;
+}
+.ol1{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

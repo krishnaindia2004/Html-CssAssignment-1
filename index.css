@@ -1,8 +1,9 @@
 .body{
     background: fixed;
-    background-color: rgb(86, 201, 202);
+    background-color:aquamarine;
 }
 .krishna{
+    text-shadow: 2px 2px 2px white;
     font-size: 50px;
     text-shadow: 10px;
     text-shadow: 20px rgb(0, 0, 0);
@@ -10,6 +11,12 @@
 }
 .mission{
     text-align: left;
+    font-size: large;
+}
+.img{
+    box-shadow: 5px 5px 5px 5px white ;
+    border-radius: 22px;
+    text-align: center;
 }
 .bio{
     
@@ -22,7 +29,7 @@
     margin: 5%;
     padding: 20px;
     border-radius: 40px;;
-    background-color: rgb(200, 54, 86);
+    background-color: rgb(73, 240, 126);
     margin:5%;
     align-content: center;
     text-align: left;
@@ -31,7 +38,8 @@
 .Abouttitle{
     text-align: center;
     box-shadow: 20px;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
 }
 .ul1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

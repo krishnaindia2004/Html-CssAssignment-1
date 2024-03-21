@@ -1,0 +1,101 @@
+body{
+    background-color: hsl(15, 42%, 87%);
+    font-weight: 400;
+}
+.para{
+    font-size: 12px;
+    justify-content: space-evenly;
+    margin-top: -4px;
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.omelette-container{
+    
+    font-family:Arial, Helvetica, sans-serif;
+    height: 70%;
+    width: 530px;
+    margin:auto ;
+    padding: 3.5%;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+.img1{
+    height: 250px;
+    display: flex;
+    border-radius: 20px;
+}
+.prepli::marker{
+    color: rgba(163, 3, 115, 0.909);
+}
+.preptime{
+    margin-top: 5px;
+    background-color: hsl(330, 100%, 98%);
+    padding: 5px;
+    border-radius: 20px;
+}
+h1{
+    font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+li{
+    padding-bottom: 2.1%;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding-left: 15px;
+
+}
+
+li::marker {
+    color: hsla(20, 62%, 35%, 0.851);
+    -webkit-text-stroke: 10px;
+  }
+.prepname{
+    padding-left:18px;
+    color:hsl(332, 51%, 32%);
+}
+h2{
+    color:hsla(20, 63%, 35%, 0.851);
+    margin-left: 3%;
+
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+         
+}
+.nutripara{
+    font-family: "Outfit", sans-serif;
+    text-align:justify;
+    margin-left: 10px;
+}
+hr {
+    border: 0;
+    border-top: 1px solid rgb(0, 0, 0);
+    opacity: .2;
+ }
+.nlist{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    list-style-type: none;
+    padding: 10px 0px;
+    min-width: 10px;
+    display:flex ;
+    
+}
+label{
+    flex: 2;
+    margin-left: 30px;
+}
+span{
+    color: hsla(20, 62%, 35%, 0.851);
+    -webkit-text-stroke: 1px;
+    align-items: center;
+    flex:1;
+    justify-content:center;
+    
+}
+.nlist:last-child{
+    border-bottom: none;
+}
+    
